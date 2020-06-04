@@ -1,5 +1,4 @@
 .env
 node_modules
 mongod
-public/uploads
 images
